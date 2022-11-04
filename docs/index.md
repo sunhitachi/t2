@@ -54,3 +54,11 @@ sequenceDiagram
     dotcom->>iframe: set mermaid data on iframe
     iframe->>iframe: render mermaid
 ```
+
+```mermaid
+ Pie chart
+pie
+"Dogs" : 386
+"Cats" : 85.9
+"Rats" : 15
+```
