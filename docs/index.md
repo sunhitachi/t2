@@ -54,11 +54,14 @@ sequenceDiagram
     dotcom->>iframe: set mermaid data on iframe
     iframe->>iframe: render mermaid
 ```
-
 ```mermaid
- Pie chart
-pie
-"Dogs" : 386
-"Cats" : 85.9
-"Rats" : 15
+pie title Chat for popular programming languages
+    "Java" : 22.2
+    "Python" : 17.6
+    "PHP" : 8.8
+    "JavaScript" : 8
+    "C #" : 7
+    "C++" : 6.7
 ```
+<!-- [![](https://mermaid.ink/img/pako:eNpVz8FugzAMANBfiXyuyoBBaa7r7lV3zcUQA5ECQYlTCSH-fUETh_lkP1u2vEHnNIGExZBgw5bEkzgI1G5h0qJdxdvZODORD2oWKRQ83BAUCCnKpj7tC_nPmuqk10l5BReYyE9odDq1HQMKeKSJFMiUauoxWlag5j2NYmT3s84dSPaRLhAXjUwPg4PH6T9-a8POg-zRhoTWoaZUbsDrcrw1mMBpY-fm3gyHR28Tj8xLkFl2tK-D4TG2185NWTB6RM_j-15ndVE3WJRU30qsylJ3bX5v-uIz7_XtIy8Q9n3_BY7TZmQ?type=png)](https://mermaid.live/edit#pako:eNpVz8FugzAMANBfiXyuyoBBaa7r7lV3zcUQA5ECQYlTCSH-fUETh_lkP1u2vEHnNIGExZBgw5bEkzgI1G5h0qJdxdvZODORD2oWKRQ83BAUCCnKpj7tC_nPmuqk10l5BReYyE9odDq1HQMKeKSJFMiUauoxWlag5j2NYmT3s84dSPaRLhAXjUwPg4PH6T9-a8POg-zRhoTWoaZUbsDrcrw1mMBpY-fm3gyHR28Tj8xLkFl2tK-D4TG2185NWTB6RM_j-15ndVE3WJRU30qsylJ3bX5v-uIz7_XtIy8Q9n3_BY7TZmQ)
+ -->
