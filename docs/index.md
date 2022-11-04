@@ -10,3 +10,6 @@
 ほとんどの生物の目的というのは「生き延びること」と「子孫を残すこと」なんですね。
 
 ですが人間だけはそうではない。「ひと花咲かせよう！」みたいなのがあって、これがすごい特異的なんですよ。本当は生き延びて生殖するために脳ができたんですけど、でもその脳が発達しすぎてしまったがために「ひと花咲かせよう！」ができちゃうわけです。
+
+## Youtube Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJkjFIcBqNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
