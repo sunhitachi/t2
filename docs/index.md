@@ -15,10 +15,10 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/RJkjFIcBqNU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  -->
  
- # 目次
+## 目次
 1. [概要](#anchor1)
-1. [順序](#anchor2)
-1. [詳細](#anchor3)
+2. [順序](#anchor2)
+3. [詳細](#anchor3)
 
 <a id="anchor1"></a>
 
@@ -27,17 +27,17 @@
 
 <a id="anchor2"></a>
 
-1. 挨拶の順序
+2. 挨拶の順序
     1. おはようございます。
-    1. こんにちは。
-    1. こんばんは。
+    2. こんにちは。
+    3. こんばんは。
 
 <a id="anchor3"></a>
 
-1. 詳細
+3. 詳細
     1. 「おはようございます」とは  
     起床時、あるいは朝人に会った時の挨拶。
-    1. 「こんにちは」とは  
+    2. 「こんにちは」とは  
     語源は「今日は、ご機嫌いかがですか？」が省略されたもの
-    1. 「こんばんは」とは  
+    3. 「こんばんは」とは  
     語源は「今晩は〇〇ですね。」の後半部分が省略されたもの
