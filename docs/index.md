@@ -16,9 +16,9 @@
  -->
  
 ## 目次
-*[概要](#chapter1)
-*[順序](#chapter2)
-*[詳細](#chapter3)
+* [概要](#chapter1)
+* [順序](#chapter2)
+* [詳細](#chapter3)
 
 <a id="chapter1"></a>
 
