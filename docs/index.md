@@ -67,9 +67,9 @@ Ubuntu 环境下 python等环境配置方法
 
 
    5.在终端程序内启动 jupyter notebook 或者 lab 
-      jupyter notebook
+        jupyter notebook
       
-   6. 打开之后建立新的文本 测试如下代码
+   6.打开之后建立新的文本 测试如下代码
 
            import matplotlib.pyplot as plt
 
